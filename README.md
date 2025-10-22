@@ -22,7 +22,7 @@ It includes a complete machine learning pipeline: data exploration, preprocessin
 2. **Data Preprocessing**
    - Dropped irrelevant columns (`User ID`)
    - One-hot encoded `Gender`
-   - Train-test split with stratification
+   - Train-test split
 
 3. **Model Training**
    - Trained a **Decision Tree Classifier**
